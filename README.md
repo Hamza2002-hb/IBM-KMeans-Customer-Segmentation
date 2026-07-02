@@ -12,6 +12,11 @@ This repository documents my learning journey while studying **K-Means Clusterin
 
 In this project, I explored how K-Means automatically groups similar data points into clusters and how businesses use customer segmentation to make better decisions.
 
+
+## 📷 Project Workflow
+
+![K-Means Workflow](images/kmeans_workflow.png)
+
 ---
 
 ## 🎯 Objectives
